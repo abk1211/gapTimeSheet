@@ -83,9 +83,9 @@ public class Timesheet {
 		}
 		else
 			System.err.println("***********Invalid UserName***************");
-		//		driver.findElement(By.id("ppm_header_logout")).click();
-		//		driver.close();
-		//		driver.quit();
+		driver.findElement(By.id("ppm_header_logout")).click();
+		driver.close();
+		driver.quit();
 	}
 	private static void filldetails(String strTimesheetTable, int i, Properties objpProp) {
 		int table_colomns = driver.findElements(By.xpath(strTimesheetTable+"/tbody/tr["+i+"]/td")).size();
