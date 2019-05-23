@@ -1,7 +1,6 @@
 package com.gap.timesheet;
 
 import java.util.concurrent.TimeUnit;
-import java.awt.Desktop;
 import java.io.File;
 import java.io.FileInputStream;
 import java.text.SimpleDateFormat;
@@ -63,17 +62,20 @@ public class Timesheet {
 						System.out.println("Investment Name found");
 					else
 						System.err.println("Investment Name mismatch or not found");
-					Thread.sleep(3000);
+					Thread.sleep(2000);
 					SimpleDateFormat sdf = new SimpleDateFormat("EEEE");
 					Date d = new Date();
 					String strToday = sdf.format(d).toString();
 
 					if(strToday.equalsIgnoreCase("Friday")) {
 						driver.findElement(By.xpath("//button[contains(text(),'Save')]")).click(); 
-						//						driver.findElement(By.xpath("//button[contains(text(),'Submit for Approval')]")).click(); 
+						driver.findElement(By.xpath("//button[contains(text(),'Submit for Approval')]")).click(); 
+						System.out.println("As Today is Friday we are Submitting for Approval");
 					} 
-					else
+					else {
 						driver.findElement(By.xpath("//button[contains(text(),'Save')]")).click();
+						System.out.println("As Today is not Friday we are Saving the Timesheet");
+					}
 				}
 				else
 					System.err.println("Timesheet Table is not displayed in the page.");
@@ -83,6 +85,7 @@ public class Timesheet {
 		}
 		else
 			System.err.println("***********Invalid UserName***************");
+		Thread.sleep(3000);
 		driver.findElement(By.id("ppm_header_logout")).click();
 		driver.close();
 		driver.quit();

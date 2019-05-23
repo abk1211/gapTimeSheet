@@ -26,7 +26,7 @@ public class Date_to_Day {
 			subvalue=3;
 			addvalue=3;
 			break;
-		case "THRUSDAY":
+		case "THURSDAY":
 			subvalue=4;
 			addvalue=2;
 			break;
