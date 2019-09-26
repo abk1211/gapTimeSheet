@@ -2,6 +2,7 @@ package com.gap.timesheet;
 
 
 import java.util.concurrent.TimeUnit;
+import java.awt.Desktop;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.PrintStream;
@@ -27,6 +28,11 @@ public class Timesheet {
 
 	public static void filltimesheet() throws Exception {
 
+		Desktop desktop = Desktop.getDesktop();
+		desktop.open(new File(".\\Properties\\TimeSheet.properties"));
+		Thread.sleep(20000);
+		Runtime.getRuntime().exec(".\\exe\\closenotepad.exe");
+		
 		//To load the log4j and user entry details property files
 		Load_Properties.readpropertiesfile(".\\Properties\\log4j.properties");
 		Properties objprop = Load_Properties.readpropertiesfile(".\\Properties\\TimeSheet.properties");
@@ -86,9 +92,11 @@ public class Timesheet {
 					Date d = new Date();
 					String strToday = sdf.format(d).toString();
 
-					if(strToday.equalsIgnoreCase("Friday")) {
-						driver.findElement(By.xpath("//button[contains(text(),'Save')]")).click(); 
-						driver.findElement(By.xpath("//button[contains(text(),'Submit for Approval')]")).click(); 
+					if(strToday.equalsIgnoreCase("Friday") || 
+					   objprop.getProperty("Submit").equalsIgnoreCase("Yes") ||
+					   objprop.getProperty("Submit").equalsIgnoreCase("Y")) {
+						driver.findElement(By.xpath("(//button[contains(text(),'Save')])[2]")).click(); 
+						driver.findElement(By.xpath("(//button[contains(text(),'Submit for Approval')])[2]")).click(); 
 						log.info("As Today is Friday we are Submitting for Approval");
 						StatusValidation.verifyStatus(driver,strTimeperiod, log);
 					} 

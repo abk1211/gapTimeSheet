@@ -1,41 +1,15 @@
-2019-08-26 12:37:48,360  INFO [main] Timesheet:49 - Actual Name : Ananthapalli Bhaskar Kiran
-2019-08-26 12:37:50,328  INFO [main] Timesheet:56 - 8/25/19 - 8/31/19
-2019-08-26 12:37:50,396  INFO [main] Timesheet:63 - No of Rows in Table : 14
-2019-08-26 12:37:51,625  INFO [main] Timesheet:115 - pass 15
-2019-08-26 12:37:51,708  INFO [main] Timesheet:121 - Sun, 8/25, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:37:59,812  INFO [main] Timesheet:121 - Mon, 8/26, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:38:09,681  INFO [main] Timesheet:121 - Tue, 8/27, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:38:17,012  INFO [main] Timesheet:121 - Wed, 8/28, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:38:22,878  INFO [main] Timesheet:121 - Thu, 8/29, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:38:29,156  INFO [main] Timesheet:121 - Fri, 8/30, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:38:35,148  INFO [main] Timesheet:121 - Sat, 8/31, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:38:44,587  INFO [main] Timesheet:121 - 
-2019-08-26 12:40:12,785  INFO [main] Timesheet:115 - pass 15
-2019-08-26 12:40:14,939  INFO [main] Timesheet:121 - Sun, 8/25, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:40:20,956  INFO [main] Timesheet:121 - Mon, 8/26, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:40:24,906  INFO [main] Timesheet:121 - Tue, 8/27, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:40:30,944  INFO [main] Timesheet:121 - Wed, 8/28, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:40:35,932  INFO [main] Timesheet:121 - Thu, 8/29, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:40:44,479  INFO [main] Timesheet:121 - Fri, 8/30, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:40:50,937  INFO [main] Timesheet:121 - Sat, 8/31, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:40:58,275  INFO [main] Timesheet:121 - 
-2019-08-26 12:41:37,679  INFO [main] Timesheet:115 - pass 15
-2019-08-26 12:41:42,173  INFO [main] Timesheet:121 - Sun, 8/25, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:41:44,787  INFO [main] Timesheet:121 - Mon, 8/26, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:41:47,338  INFO [main] Timesheet:121 - Tue, 8/27, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:41:49,920  INFO [main] Timesheet:121 - Wed, 8/28, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:41:52,190  INFO [main] Timesheet:121 - Thu, 8/29, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:41:54,424  INFO [main] Timesheet:121 - Fri, 8/30, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:42:00,376  INFO [main] Timesheet:121 - Sat, 8/31, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:42:04,355  INFO [main] Timesheet:121 - 
-2019-08-26 12:42:30,650  INFO [main] Timesheet:115 - pass 15
-2019-08-26 12:42:31,315  INFO [main] Timesheet:121 - Sun, 8/25, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:42:33,514  INFO [main] Timesheet:121 - Mon, 8/26, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:42:35,845  INFO [main] Timesheet:121 - Tue, 8/27, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:42:38,130  INFO [main] Timesheet:121 - Wed, 8/28, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:42:40,492  INFO [main] Timesheet:121 - Thu, 8/29, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:42:42,880  INFO [main] Timesheet:121 - Fri, 8/30, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 1.32
-2019-08-26 12:42:45,146  INFO [main] Timesheet:121 - Sat, 8/31, Engineering Enablement FY19, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-08-26 12:42:46,821  INFO [main] Timesheet:121 - 
-2019-08-26 12:42:59,396  INFO [main] Timesheet:? - Investment Name found
-2019-08-26 12:43:16,721  INFO [main] Timesheet:? - As Today is not Friday we are Saving the Timesheet
+2019-09-26 12:33:16,411  INFO [main] Timesheet:55 - Actual Name : Ananthapalli Bhaskar Kiran
+2019-09-26 12:33:18,240  INFO [main] Timesheet:62 - 9/22/19 - 9/28/19
+2019-09-26 12:33:18,352  INFO [main] Timesheet:69 - No of Rows in Table : 13
+2019-09-26 12:33:20,218  INFO [main] Timesheet:83 - Investment Name found
+2019-09-26 12:33:20,252  INFO [main] Timesheet:125 - pass 15
+2019-09-26 12:33:20,354  INFO [main] Timesheet:131 - Sun, 9/22, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
+2019-09-26 12:33:20,736  INFO [main] Timesheet:131 - Mon, 9/23, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:21,218  INFO [main] Timesheet:131 - Tue, 9/24, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:21,646  INFO [main] Timesheet:131 - Wed, 9/25, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:22,160  INFO [main] Timesheet:131 - Thu, 9/26, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:22,593  INFO [main] Timesheet:131 - Fri, 9/27, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:23,017  INFO [main] Timesheet:131 - Sat, 9/28, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
+2019-09-26 12:33:23,226  INFO [main] Timesheet:131 - 
+2019-09-26 12:33:28,659  INFO [main] Timesheet:100 - As Today is Friday we are Submitting for Approval
+2019-09-26 12:33:30,034  INFO [main] Timesheet:22 - Pass, TimeSheet submitted successfully
