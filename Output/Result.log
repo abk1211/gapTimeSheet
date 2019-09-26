@@ -1,0 +1,15 @@
+2019-09-26 12:33:16,411  INFO [main] Timesheet:55 - Actual Name : Ananthapalli Bhaskar Kiran
+2019-09-26 12:33:18,240  INFO [main] Timesheet:62 - 9/22/19 - 9/28/19
+2019-09-26 12:33:18,352  INFO [main] Timesheet:69 - No of Rows in Table : 13
+2019-09-26 12:33:20,218  INFO [main] Timesheet:83 - Investment Name found
+2019-09-26 12:33:20,252  INFO [main] Timesheet:125 - pass 15
+2019-09-26 12:33:20,354  INFO [main] Timesheet:131 - Sun, 9/22, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
+2019-09-26 12:33:20,736  INFO [main] Timesheet:131 - Mon, 9/23, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:21,218  INFO [main] Timesheet:131 - Tue, 9/24, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:21,646  INFO [main] Timesheet:131 - Wed, 9/25, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:22,160  INFO [main] Timesheet:131 - Thu, 9/26, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:22,593  INFO [main] Timesheet:131 - Fri, 9/27, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-09-26 12:33:23,017  INFO [main] Timesheet:131 - Sat, 9/28, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
+2019-09-26 12:33:23,226  INFO [main] Timesheet:131 - 
+2019-09-26 12:33:28,659  INFO [main] Timesheet:100 - As Today is Friday we are Submitting for Approval
+2019-09-26 12:33:30,034  INFO [main] Timesheet:22 - Pass, TimeSheet submitted successfully
