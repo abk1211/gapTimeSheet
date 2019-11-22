@@ -1,6 +1,6 @@
 package com.gap.timesheet;
 
-public class TestRunner {
+public class TimeSheetTestRunner {
 	public static void main(String[] args) throws Exception {
 		Timesheet.filltimesheet();	
 	}
