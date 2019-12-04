@@ -4,14 +4,11 @@ package com.gap.timesheet;
 import java.util.concurrent.TimeUnit;
 import java.awt.Desktop;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.PrintStream;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
