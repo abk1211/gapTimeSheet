@@ -1,15 +1,15 @@
-2019-11-22 12:04:55,203  INFO [main] Timesheet:55 - Actual Name : Ananthapalli Bhaskar Kiran
-2019-11-22 12:04:56,565  INFO [main] Timesheet:62 - 11/17/19 - 11/23/19
-2019-11-22 12:04:56,723  INFO [main] Timesheet:69 - No of Rows in Table : 13
-2019-11-22 12:04:57,726  INFO [main] Timesheet:83 - Investment Name found
-2019-11-22 12:04:57,750  INFO [main] Timesheet:125 - pass 15
-2019-11-22 12:04:57,836  INFO [main] Timesheet:131 - Sun, 11/17, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-11-22 12:04:57,992  INFO [main] Timesheet:131 - Mon, 11/18, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
-2019-11-22 12:04:58,399  INFO [main] Timesheet:131 - Tue, 11/19, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
-2019-11-22 12:04:58,755  INFO [main] Timesheet:131 - Wed, 11/20, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
-2019-11-22 12:04:59,115  INFO [main] Timesheet:131 - Thu, 11/21, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
-2019-11-22 12:04:59,471  INFO [main] Timesheet:131 - Fri, 11/22, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
-2019-11-22 12:04:59,780  INFO [main] Timesheet:131 - Sat, 11/23, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
-2019-11-22 12:04:59,976  INFO [main] Timesheet:131 - 
-2019-11-22 12:05:04,747  INFO [main] Timesheet:100 - As Today is Friday we are Submitting for Approval
-2019-11-22 12:05:05,625 ERROR [main] Timesheet:24 - Fail, Timesheet Not submitted successfully
+2019-12-12 10:44:59,378  INFO [main] Timesheet:52 - Actual Name : Ananthapalli Bhaskar Kiran
+2019-12-12 10:45:00,547  INFO [main] Timesheet:59 - 12/8/19 - 12/14/19
+2019-12-12 10:45:00,613  INFO [main] Timesheet:66 - No of Rows in Table : 13
+2019-12-12 10:45:01,427  INFO [main] Timesheet:80 - Investment Name found
+2019-12-12 10:45:01,443  INFO [main] Timesheet:122 - pass 15
+2019-12-12 10:45:01,493  INFO [main] Timesheet:128 - Sun, 12/8, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
+2019-12-12 10:45:01,605  INFO [main] Timesheet:128 - Mon, 12/9, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-12-12 10:45:01,824  INFO [main] Timesheet:128 - Tue, 12/10, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-12-12 10:45:02,046  INFO [main] Timesheet:128 - Wed, 12/11, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-12-12 10:45:02,332  INFO [main] Timesheet:128 - Thu, 12/12, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-12-12 10:45:02,666  INFO [main] Timesheet:128 - Fri, 12/13, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 2.21
+2019-12-12 10:45:02,931  INFO [main] Timesheet:128 - Sat, 12/14, Separation - Shared Services, Planning, Analysis, Migration, Post Deployment Support, ETC: 0.00
+2019-12-12 10:45:03,062  INFO [main] Timesheet:128 - 
+2019-12-12 10:45:08,151  INFO [main] Timesheet:97 - As Today is Friday we are Submitting for Approval
+2019-12-12 10:45:08,863  INFO [main] Timesheet:22 - Pass, TimeSheet submitted successfully

@@ -18,5 +18,4 @@ public class Load_Properties {
 		return prop;
 
 	}
-
 }
